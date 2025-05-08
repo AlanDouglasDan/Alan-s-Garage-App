@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "655934586703",
+    "project_id": "aucarga-project",
+    "storage_bucket": "aucarga-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655934586703:android:5c95d1c154fbab1dc64f3a",
+        "android_client_info": {
+          "package_name": "com.garage.aucarga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655934586703-222ibanqhdh9ivgsjjjjrfji2v8dt84e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garage.aucarga",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "655934586703-plo1e5leg729kndmr1fds4h4oe9j4aoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB-dDruMNYX30TTeWsaSTCeZLPALLB3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655934586703-plo1e5leg729kndmr1fds4h4oe9j4aoe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655934586703-4f9pbuup111eb5abbp3uidgr5dse8d54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.garage.aucarga"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
